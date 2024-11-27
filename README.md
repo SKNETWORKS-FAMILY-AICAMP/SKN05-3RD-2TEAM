@@ -7,7 +7,7 @@
 
   <h2> 👀 Team Overview 👀 </h2>
 
-  |<img src="https://github.com/user-attachments/assets/e6176d94-55ad-4e20-b2b9-8ac260ac0c4d" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/b5eac200-ab02-4f7d-ae32-b74f5a933fcd" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/ac77a03b-af69-415c-bf13-5cc4ce400f5c" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/63bf588d-4d5c-44f0-8d59-86a1ac860fae" width="150" height="150"/>|
+  |<img src="https://github.com/user-attachments/assets/e6176d94-55ad-4e20-b2b9-8ac260ac0c4d" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/b5eac200-ab02-4f7d-ae32-b74f5a933fcd" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/ac77a03b-af69-415c-bf13-5cc4ce400f5c" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/f54fe4d8-5735-443b-86e5-7fdb57ef5fdb" width="150" height="150"/>|
   |:-:|:-:|:-:|:-:|
   |Choi Young min<br/>[@MartinusChoi](https://github.com/MartinusChoi)<br/>RAG Chain, Fine Tune|Seo Jang Ho<br/>[@MartinusChoi](https://github.com/MartinusChoi)<br/>Data Preprocess, Streamlit|Kim Ji Yeon<br/>[@wldus0210](https://github.com/wldus210)<br/>Fine Tune, Evaluation|Cho Ju Young<br/>[@chojy86](https://github.com/MartinusChoi)<br/>Crawling|
 
