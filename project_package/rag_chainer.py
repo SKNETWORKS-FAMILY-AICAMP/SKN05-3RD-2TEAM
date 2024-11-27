@@ -21,7 +21,7 @@ class EmergencyRAGChainer:
     '''
     self.prompt = ChatPromptTemplate.from_template(template)
     self.model = ChatOpenAI(
-        model=llm_base,
+        model=llm_finetune,
         temperature=0,
         max_tokens=500,
         api_key=api_key
