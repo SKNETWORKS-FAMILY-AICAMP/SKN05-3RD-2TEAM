@@ -142,7 +142,7 @@
 
 🏷 매우 상세하지만 질문에 대한 핵심 응답이 부각되지 않고 불필요하게 상세함
 
-<img src="https://github.com/user-attachments/assets/0e664801-1539-49f3-91fa-3358419b58c3" width="850" height="60"/>
+<img src="https://github.com/user-attachments/assets/f87a817a-ee1d-469b-a9e0-07d1c3ff758d" width="850" height="60"/>
 
 🏷 파인튜닝 이후 답변
 
