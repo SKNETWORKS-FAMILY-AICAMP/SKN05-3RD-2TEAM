@@ -35,6 +35,8 @@
    
   <h3> 📎 Outline 📎 </h3>
 
+  <img src="https://github.com/user-attachments/assets/450e0de6-0e49-4f6c-9210-4e626e95f894" width="700" height="500"/>
+
   ### [ 개요 ]
 
   🏷 응급처치에 대한 메뉴얼 제공, 인근 병원 위치(기본정보) 제공
